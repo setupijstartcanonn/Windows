@@ -5,45 +5,47 @@ import sys
 
 # -- Path setup --------------------------------------------------------------
 
-# Add any module paths here if needed
+# If extensions or modules to document with autodoc are in another directory,
+# add these directories to sys.path here.
 # Example: sys.path.insert(0, os.path.abspath('../src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Brother Printer Drivers'
-copyright = '2025, Brother'
-author = 'Brother Support Team'
+project = 'Windows 12 Download'
+copyright = '2025, Windows 12 Download'
+author = 'Windows 12 Download'
+
+# The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
-# -- General configuration ---------------------------------------------------
+# -- HTML output settings ----------------------------------------------------
 
-extensions = []
-templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+# Title shown in the browser tab and top of HTML pages
+html_title = "Windows 12 Download – Official ISO, Features & Installation Guide"
 
-# -- Options for HTML output -------------------------------------------------
+# Optional short title (e.g., for nav bar)
+html_short_title = "Windows 12 Download "
 
-# Theme options
-html_theme = 'sphinx_rtd_theme'  # Recommended for clean documentation style
+# Favicon (place favicon.ico in the root or _static folder)
+html_favicon = 'favicon.ico'
+
+# Choose a theme (uncomment if needed)
+# html_theme = 'sphinx_rtd_theme'
+
+# Hide "View page source"
+html_show_sourcelink = False
+
+# Allow raw HTML blocks in .rst files
+html_allow_unsafe = True
+
+# Theme customization options
 html_theme_options = {
-    'collapse_navigation': False,
-    'navigation_depth': 3,
-    'style_external_links': True,
-    'display_version': False,
-    'prev_next_buttons_location': 'bottom',
-    'style_nav_header_background': '#0066cc',  # Optional: Blue header
     'show_powered_by': False,
 }
 
-# Page titles
-html_title = "Brother Printer Drivers – Download & Install via Setup.Brother.com"
-html_short_title = "Setup.Brother.com Driver Guide"
+# Paths to templates and static files
+templates_path = ['_templates']
+# html_static_path = ['_static']  # Uncomment if you have static assets
 
-# Static & branding assets
-html_favicon = 'favicon.ico'
-# html_logo = '_static/logo.png'  # Optional: Add logo here
-# html_static_path = ['_static']  # Uncomment if using custom styles or JS
-
-# Other settings
-html_show_sourcelink = False
-html_allow_unsafe = True
+# Patterns to ignore when looking for source files
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
