@@ -5,7 +5,7 @@ Windows 12 Download – Meet Windows 12: First Look
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: download.png
+.. image:: downloadnow.png
    :alt: Windows 12 Download
    :target: #
 
