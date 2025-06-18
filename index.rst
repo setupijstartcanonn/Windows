@@ -1,5 +1,5 @@
-Windows 12 Download – Meet Windows 12: First Look
-=================================================
+Windows 12 Download – Official ISO, Features & Installation Guide
+===============================================================
 
   .. raw:: html
 
@@ -7,7 +7,7 @@ Windows 12 Download – Meet Windows 12: First Look
 
 .. image:: downloadnow.png
    :alt: Windows 12 Download
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly93aW5kb3dzMTJkb3dubG9hZC1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 .. raw:: html
