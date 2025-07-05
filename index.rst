@@ -7,7 +7,7 @@ Windows 12 Download – Official ISO, Features & Installation Guide
 
 .. image:: downloadnow.png
    :alt: Windows 12 Download
-   :target: https://fm.ci/?aHR0cHM6Ly93aW5kb3dzMTJkb3dubG9hZC1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://windows12-download.blogspot.com/
 
 
 .. raw:: html
